@@ -8,12 +8,5 @@ Using shotgun metagenomics sequencing and known participant disease status, scie
 
 ## Tech Stack
 * **Language:** Python  
-* **Libraries:** `pandas`, `numpy`, `os`, `torch`, `sklearn`, `aequitas`
-* **Visualization:** `matplotlib`, `seaborn`
-  
-## Requirements
-
-```
-pip install aequitas
-```
-
+* **Libraries:** `pandas`, `numpy`, `sklearn`
+* **Visualization:** `matplotlib`, `plotly`
